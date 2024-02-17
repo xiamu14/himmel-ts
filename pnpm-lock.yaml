@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   himmel:
-    specifier: 0.0.2-alpha.3
-    version: 0.0.2-alpha.3
+    specifier: 0.0.2-alpha.4
+    version: 0.0.2-alpha.4
 
 devDependencies:
   '@unocss/preset-uno':
@@ -1256,8 +1256,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /himmel@0.0.2-alpha.3:
-    resolution: {integrity: sha512-1iXUDMGvSAfExMDusXyDD+C5qV0znilx7FPpoO3hJtscVZM8P9hIrWo5HvOOvL2jdW2yYEOXtbvj0wLx61iW0Q==}
+  /himmel@0.0.2-alpha.4:
+    resolution: {integrity: sha512-vbGUAkH0ps4aDVwIfd5bFMKOl4tsB5/ff67yOgdG9zaEUYNvcTwyTEfcA9zOpDXUuz3Ge3XhqudIfrQjfHNtKw==}
     dependencies:
       fast-array-diff: 1.1.0
       lodash.clonedeep: 4.5.0
